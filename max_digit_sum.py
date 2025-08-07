@@ -20,6 +20,4 @@ def max_digit_sum(strings):
 
     return max_sum
 
-if __name__ == "__main__":
-    test_input = ["abc123", "456", "xyz36"]
-    print(max_digit_sum(test_input))  # Should print 15
+
